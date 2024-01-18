@@ -1,6 +1,6 @@
 # The Grand Lobby Pack
 
-This modpack is the evolving collection of mods that some friends in a discord server put together.
+This modpack is the evolving collection of mods that some friends in a discord server put together. If you want to add mods, please add the required dependency in manifest.json and describe your changes in the changelog below
 
 ## Mod List (Shorthand)
 
