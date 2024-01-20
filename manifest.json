@@ -1,7 +1,7 @@
 {
   "name": "GrandLobbyPack",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/thunderstore-io",
+  "website_url": "https://github.com/AyeBeara/GrandLobbyPack",
   "description": "Modpack for the Employees in the Grand Lobby",
   "dependencies": [
     "2018-LC_API-3.4.4",
