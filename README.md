@@ -48,6 +48,3 @@ This modpack is the evolving collection of mods that some friends in a discord s
 - TV Loader
 - Yippee Mod
 - Gambling Machine at the Company
-
-## Changelog
-v1.0.1 - Added _Gambling Machine at the Company_
